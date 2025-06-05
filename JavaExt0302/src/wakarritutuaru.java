@@ -1,2 +1,3 @@
-public class wakaritutuaru{
+public class wakarritutuaru{
+	
 }
